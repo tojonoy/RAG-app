@@ -5,6 +5,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system where user
 
 ## 🚀 Getting Started
 
+### Note to use llama3 model locally for the working of the all
 ### 1. Clone the Repository
 
 ```bash
@@ -37,6 +38,8 @@ In a new terminal window/tab (but same environment):
 ```bash
 streamlit run stream.py
 ```
+
+
 
 ### 5. Access the Streamlit App
 
