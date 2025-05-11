@@ -1,5 +1,4 @@
 
-````markdown
 # PDF-based RAG System using FastAPI and Streamlit
 
 This project implements a Retrieval-Augmented Generation (RAG) system where users can upload PDFs, process them, and query content using a user-friendly interface powered by Streamlit and FastAPI.
