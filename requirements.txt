@@ -1,0 +1,15 @@
+langchain[google-genai]
+langchain-google-vertexai
+langchain-pinecone
+langchain-text-splitters
+langchain-community
+langgraph
+uvicorn
+honcho
+gunicorn
+fastapi
+pytesseract
+pdf2image
+PyPDF2
+python-dotenv
+streamlit

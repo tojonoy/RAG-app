@@ -1,0 +1,12 @@
+llama-index
+python-dotenv
+pypdf
+flask
+flask_sqlalchemy
+pgvector
+pytesseract
+pdf2image
+PyPDF2
+psycopg2-binary
+google-generativeai
+llama-index-llms-gemini
