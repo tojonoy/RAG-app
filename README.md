@@ -5,7 +5,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system where user
 
 ## 🚀 Getting Started
 
-### Note to use llama3 model locally for the working of the all
+### Note to use llama3 model locally for the working of the app
 ### 1. Clone the Repository
 
 ```bash
